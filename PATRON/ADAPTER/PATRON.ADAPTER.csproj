@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MacroMedidor.cs" />
+    <Compile Include="MacroMedidorAdapter.cs" />
+    <Compile Include="Medidor.cs" />
+    <Compile Include="MedidorA.cs" />
+    <Compile Include="MedidorB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
