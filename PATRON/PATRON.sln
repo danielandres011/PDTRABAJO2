@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PATRON.ADAPTER", "ADAPTER\PATRON.ADAPTER.csproj", "{E6CFF5BB-FB54-42FC-B9D6-1CCE41794817}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PATRON.BRIDGE", "PATRON.BRIDGE\PATRON.BRIDGE.csproj", "{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E6CFF5BB-FB54-42FC-B9D6-1CCE41794817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6CFF5BB-FB54-42FC-B9D6-1CCE41794817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6CFF5BB-FB54-42FC-B9D6-1CCE41794817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
