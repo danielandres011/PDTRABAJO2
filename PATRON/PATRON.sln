@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PATRON.ADAPTER", "ADAPTER\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PATRON.BRIDGE", "PATRON.BRIDGE\PATRON.BRIDGE.csproj", "{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PATRON.COMPOSITE", "PATRON.COMPOSITE\PATRON.COMPOSITE.csproj", "{3BCB3E7F-BEA7-4EED-9747-89443E0D9553}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9F9D9FF-84C7-48F6-A797-C7EB463D9FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCB3E7F-BEA7-4EED-9747-89443E0D9553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCB3E7F-BEA7-4EED-9747-89443E0D9553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCB3E7F-BEA7-4EED-9747-89443E0D9553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCB3E7F-BEA7-4EED-9747-89443E0D9553}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
